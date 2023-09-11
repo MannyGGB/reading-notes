@@ -3,6 +3,8 @@ Hello, visitor! Here you can find all my notes and activities regarding the [Ful
 
 ## Index
 - [Class 01 AM](https://mannyggb.github.io/reading-notes/class-01AM)
+- [Class 01 PM](https://mannyggb.github.io/reading-notes/class-01PM)
+- [Read 01](https://mannyggb.github.io/reading-notes/read-01)
 
 ### Growth Mindset 
 
