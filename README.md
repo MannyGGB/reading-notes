@@ -26,5 +26,3 @@ A growth mindset allows me to develop my own abilities by:
 > "I don't have to prove anything to anyone. I only have to follow my heart and concentrate on what I want to say to the world. I run my world." – *Beyoncé*
 
 You can find my profile [here](https://github.com/MannyGGB).
-
-theme: minima
