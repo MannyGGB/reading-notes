@@ -27,4 +27,4 @@ A growth mindset allows me to develop my own abilities by:
 
 You can find my profile [here](https://github.com/MannyGGB).
 
-theme: midnight
+theme: minima
