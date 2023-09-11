@@ -16,6 +16,7 @@ A growth mindset allows me to develop my own abilities by:
 3. Don't be scared of asking for help, even if it makes you feel insecure.
 
 > "I don't have to prove anything to anyone. I only have to follow my heart and concentrate on what I want to say to the world. I run my world." – *Beyoncé*
-
+* Test
+& Test
 You can find my profile [here](https://github.com/MannyGGB).
 
