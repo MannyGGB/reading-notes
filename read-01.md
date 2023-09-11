@@ -25,6 +25,13 @@ Let's have a look a some **Markdown syntax**:
   - Write the name of the website in between [ ] followed by the URL in between ( ). For example, \[Google\]\(https://www.google.co.uk/).
   - The name of the website will appear in blue, ready for you to click. The URL will not appear when you preview your website.
 
+## Lists
+
+- Finally, we have lists.
+  - There are a few symbols you can use to make a list: \+, \-, and \*
+  - Add one of the above symbols before a word or sentence to make a list. For example, \* eggs, \* tomatoes, \* milk.
+  - Keep it consistent! Stick to one of the symbols for your list.
+  
 
 
 
