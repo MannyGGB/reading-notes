@@ -17,7 +17,7 @@ Let's have a look a some **Markdown syntax**:
 
 - Let's say you want to use **bold** and *italics* in your text. Don't fret!
   - Add two \* before and after a word for **bold**, and one \* before and after the word for *italics*. For example, if you write \*cat\*, the word would be italised. If you write \*\*cat\*\*, the word would be bold.
-  - You can also use \_, but not in the middle of a word. \* is preferred.
+  - You can also use \_, but not in the middle of a word. \* is preferred in this case.
 
 ## Links
 
@@ -32,19 +32,3 @@ Let's have a look a some **Markdown syntax**:
   - Add one of the above symbols before a word or sentence to make a list. For example, \* eggs, \* tomatoes, \* milk.
   - Keep it consistent! Stick to one of the symbols for your list.
   
-
-
-
-
-
-
-
-
-What is Markdown?
-Why do we use Markdown?
-What symbol will create a heading in Markdown?
-How many do you need to create the largest heading?
-How many do you need to create the smallest heading?
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
-How do you create a link with Markdown?
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
