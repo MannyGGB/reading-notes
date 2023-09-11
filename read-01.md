@@ -9,8 +9,10 @@ Let's have a look a some **Markdown syntax**:
 
 ## Headings
 
-- For a heading, add a \# and a space before your title. For example, \# A Look into Markdown 
-  - You can also have sub-headings. Simply add up to six \# to see your title get smaller and smaller. For example, \#\#\#\#\#\# A Look into Markdown
+- For a heading, add a \# and a space before your title.
+  For example, \# A Look into Markdown 
+  - You can also have sub-headings. Simply add up to six \# to see your title get smaller and smaller.
+    For example, \#\#\#\#\#\# A Look into Markdown
   - You need one \# for the largest heading and six \# for the smallest one.
 
 ## Bold and Italics
@@ -22,7 +24,9 @@ Let's have a look a some **Markdown syntax**:
 ## Links
 
 - Now let's add some links!
-  - Write the name of the website in between [ ] followed by the URL in between ( ). For example, \[Google\]\(https://www.google.co.uk/).
+  - Write the name of the website in between [ ] followed by the URL in between ( ).
+    For example, \[Google\]\(https://www.google.co.uk/).
+  - Make sure there is no space between the [ ] in name of the website and ( ) in the URL.
   - The name of the website will appear in blue, ready for you to click. The URL will not appear when you preview your website.
 
 ## Lists
