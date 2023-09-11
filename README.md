@@ -1,17 +1,19 @@
-# Reading Notes 
+# Growth Mindset 
 
-These are my reading notes.
-I am learning how to use Markdown.
-- I can create a list.
-    - And nested lists.
-- You can use it for articles.
-- To create a dictionary.
-- For quotes.
-- Checklists.
-- Instructions.
-- Recipes... and more!
-- I can write in **bold**
-- I can write in *italics*
+A growth mindset allows me to develop my own abilities by:
+- **Challenging** myself to learn something new.
+  - Always remembering to take a step back and rest, if it gets too frustrating.
+- Acccepting that my learning abilities are not stagnant.
+   - You can develop your learning abilities by finding new challenges.
+- Finding the **motivation** to overcome obstacles.
+  - Some obstacles might look unsurmountable, but there is always a way.
+- Asking for **help**.
+  - Sometimes asking for help involves some criticism. It is never personal. Take what's useful for you nad leave the rest.
+    
+## Reminders
+1. Always be *kind* to others.
+2. If you put some *effort* in, you will improve.
+3. Don't be scared of asking for help, even if it makes you feel insecure.
   
 
 
