@@ -2,7 +2,7 @@
 Hello, visitor! Here you can find all my notes and activities regarding the [Full Stack Course at TechEducators](https://techeducators.co.uk/course/full-stack-mern-bootcamp).
 
 ## Index
-- [Class 01 AM] (https://mannyggb.github.io/reading-notes/class-01AM)
+- [Class 01 AM](https://mannyggb.github.io/reading-notes/class-01AM)
 
 ### Growth Mindset 
 
