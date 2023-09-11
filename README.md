@@ -14,7 +14,9 @@ A growth mindset allows me to develop my own abilities by:
 1. Always be *kind* to others.
 2. If you put some *effort* in, you will improve.
 3. Don't be scared of asking for help, even if it makes you feel insecure.
-  
+
+! [Sea of Stars] (https://images.nintendolife.com/12c49621e5687/sea-of-stars.large.jpg)
+
 
 
 
