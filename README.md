@@ -1,4 +1,5 @@
-# reading-notes
+# Reading Notes 
+
 These are my reading notes.
 I am learning how to use Markdown.
 - I can create a list.
