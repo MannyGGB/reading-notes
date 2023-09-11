@@ -3,7 +3,7 @@
 A growth mindset allows me to develop my own abilities by:
 - **Challenging** myself to learn something new.
   - Always remembering to take a step back and rest, if it gets too frustrating.
-- Acccepting that my learning abilities are not stagnant.
+- Accepting that my learning abilities are not stagnant.
    - You can develop your learning abilities by finding new challenges.
 - Finding the **motivation** to overcome obstacles.
   - Some obstacles might look unsurmountable, but there is always a way.
