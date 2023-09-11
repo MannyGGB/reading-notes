@@ -15,7 +15,7 @@ A growth mindset allows me to develop my own abilities by:
 2. If you put some *effort* in, you will improve.
 3. Don't be scared of asking for help, even if it makes you feel insecure.
 
-! [Sea of Stars] (https://images.nintendolife.com/12c49621e5687/sea-of-stars.large.jpg)
+> "I don't have to prove anything to anyone. I only have to follow my heart and concentrate on what I want to say to the world. I run my world." – *Beyoncé*
 
 
 
