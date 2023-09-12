@@ -10,5 +10,6 @@ Here you can find all my notes and activities regarding the [Full Stack Course a
 - [Read 01](https://mannyggb.github.io/reading-notes/read-01)
 - [Class 03](https://mannyggb.github.io/reading-notes/class-03)
 - [Class 04](https://mannyggb.github.io/reading-notes/class-04)
+- [Reflection Day 2](https://mannyggb.github.io/reading-notes/reflection-day2)
 
 You can find my profile [here](https://github.com/MannyGGB).
