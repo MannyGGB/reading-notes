@@ -12,5 +12,6 @@ Developer Tools
 Terminal Shortcuts:
 - code . (opens VSCode)
 - pwd (prints main directory)
-- ls (shows all available folders)
-
+- ls (shows the files in a folder)
+- cd (go to a specific folder/file)
+- cd .. (go one level up)
