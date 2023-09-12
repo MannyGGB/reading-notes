@@ -27,4 +27,9 @@ Class 02 AM (12/09/2023)
 # Repository
 - Collection of files
 - Live on GitHub
+
+# ACP (on terminal)
+- add .
+- commit \-m
+- push
   
