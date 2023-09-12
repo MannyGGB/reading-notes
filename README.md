@@ -4,6 +4,7 @@ Hello, visitor! I am Manuel, a former ESOL teacher with a passion for learning l
 Here you can find all my notes and activities regarding the [Full Stack Course at TechEducators](https://techeducators.co.uk/course/full-stack-mern-bootcamp).
 
 ## Table of Contents
+- [Intro](https://mannyggb.github.io/reading-notes/intro)
 - [Class 01](https://mannyggb.github.io/reading-notes/class-01)
 - [Class 02](https://mannyggb.github.io/reading-notes/class-02)
 - [Read 01](https://mannyggb.github.io/reading-notes/read-01)
