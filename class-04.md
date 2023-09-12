@@ -1,4 +1,4 @@
-# Class 02 PM (12/09/2023)
+# Class 04 (12/09/2023)
 
 - Wireframes (low-fidelity visual of the website)
 - Semantic tags (<p>, <h1>, ...)

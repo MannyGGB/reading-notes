@@ -1,4 +1,4 @@
-# Class 01 PM (11/09/2023)
+# Class 02 (11/09/2023)
 
 Developer Tools
 - Text Editors: 
