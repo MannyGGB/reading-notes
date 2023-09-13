@@ -32,4 +32,4 @@
 - add .
 - commit \-m
 - push
-  
+- pull (send changes from remote to local)  
