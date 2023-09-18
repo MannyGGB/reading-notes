@@ -9,13 +9,14 @@ Here you can find all my notes and activities regarding the [Full Stack Course a
 - [Intro](https://mannyggb.github.io/reading-notes/intro)
 
 - 102 Intro to Software Development
-
-  - [Class Notes](https://mannyggb.github.io/reading-notes/102-intro/class-notes)
-  - [Self-study Notes](https://mannyggb.github.io/reading-notes/102-intro/read)
-  - [Reflection](https://mannyggb.github.io/reading-notes/102-intro/reflection)
+  | Class Notes |
+  |-------------|
+  |[Class 01](https://mannyggb.github.io/reading-notes/102-intro\class-notes\class-01.md)|
+  |
+  |
+  |
+  |
 
 - 201 Foundations of Software Development
-
-  - [Class Notes](https://mannyggb.github.io/reading-notes/201-foundations/class-notes)
 
 You can find my profile [here](https://github.com/MannyGGB).
