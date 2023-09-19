@@ -31,7 +31,7 @@ Here you can find all my notes and activities regarding the [Full Stack Course a
     |[Reading 08](https://mannyggb.github.io/reading-notes/102-intro/read/read-08)|
 
   - Self-reflection
-    |[Reflection Day 2](https://mannyggb.github.io/reading-notes/102-intro/reflection/reflection-day2)
+    |[Reflection Day 2](https://mannyggb.github.io/reading-notes/102-intro/reflection/reflection-day2)|
 
 - 201 Foundations of Software Development
 
