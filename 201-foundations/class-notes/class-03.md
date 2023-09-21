@@ -133,33 +133,3 @@ true || false // truthy
 
 && needs both sides to be true
 || only needs one side to be true
-
-let myCities = [
-"Granada",
-"Cordoba",
-"Toledo",
-"Barcelona",
-"Santiago de Compostela",
-"Valencia",
-"Salamanca",
-"Palma de Mallorca",
-"Santander",
-"Bilbao",
-];
-let myCitiesAnswer = prompt(
-"Name one of my top 10 Spanish cities."
-).toLowerCase();
-for (let i = 1; i < 6; i++) {
-for (let i2 = 0; i2 < myCities.length; i2++) {
-if (myCitiesAnswer === myCities[i2]) {
-alert("Well done! You can visit on your next holiday!");
-break;
-userPoints++;
-} else {
-myCitiesAnswer = prompt("Try again!");
-}
-if (i == 5) {
-i = alert("Sorry, the answers are " + myCities + ".");
-}
-}
-}
