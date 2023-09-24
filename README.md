@@ -38,10 +38,15 @@ Here you can find all my notes and activities regarding the [Full Stack Course a
   - Class Notes
     |[Class 01](https://mannyggb.github.io/reading-notes/201-foundations/class-notes/class-01)|
     |[Class 02](https://mannyggb.github.io/reading-notes/201-foundations/class-notes/class-02)|
+    |[Class 03](https://mannyggb.github.io/reading-notes/201-foundations/class-notes/class-03)|
+    |[Class 04](https://mannyggb.github.io/reading-notes/201-foundations/class-notes/class-04)|
+    |[Class 05](https://mannyggb.github.io/reading-notes/201-foundations/class-notes/class-05)|
 
   - Reading Notes
     |[Reading 01](https://mannyggb.github.io/reading-notes/201-foundations/read/read-01)|
     |[Reading 02](https://mannyggb.github.io/reading-notes/201-foundations/read/read-02)|
     |[Reading 03](https://mannyggb.github.io/reading-notes/201-foundations/read/read-03)|
+    |[Reading 04](https://mannyggb.github.io/reading-notes/201-foundations/read/read-04)|
+    |[Reading 05](https://mannyggb.github.io/reading-notes/201-foundations/read/read-05)|
 
 You can find my profile [here](https://github.com/MannyGGB).
