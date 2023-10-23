@@ -59,13 +59,18 @@ spot.goodBoi()
 ## React and Vite
 
 - Create a project in React with Vite:
-  npm create vite@latest
-  project name
-  package name
-  framework: React
-  variant: JS
-  cd nameOfProject
-  npm install
-  npm run dev
+
+1. npm create vite@latest
+2. Give it a name, Pick React, Pick Javascript
+3. cd my-project
+4. npm install
+5. git init
+6. npm run dev
+
+GitHub
+
+1. Create an empty repository (do NOT add a README.md file)
+2. Follow the 'push an existing repository from your computer 'instructions on github
+3. You may need to go git add . and git commit -m 'message' before you can push.
 
 .env added to the .gitignore
