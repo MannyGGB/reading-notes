@@ -17,13 +17,26 @@
 
   arr1 = [...arr1, ...arr2]; // this results in arr1 = [0, 1, 2, 3, 4, 5]
 
-- Give an example of using the spread operator to add a new item to an array.
+- Give an example of using the spread operator to add a new item to an array. (https://www.samanthaming.com/tidbits/87-5-ways-to-append-item-to-array/#spread)
+  const ocean = ['🐙', '🦀'];
+
+const aquarium = [...ocean, '🐡']; // Add a single value
+const sushi = [...ocean, '🐡', '🍚']; // Add multiple values
+
+aquarium; // ['🐙', '🦀', '🐡']
+sushi; // ['🐙', '🦀', '🐡', '🍚']
 
 - Give an example of using the spread operator to combine two objects into one.
+  const obj1 = { foo: "bar", x: 42 };
+  const obj2 = { bar: "baz", y: 13 };
+
+const mergedObj = { ...obj1, ...obj2 };
+// { foo: "bar", x: 42, bar: "baz", y: 13 }
+If we merge objects with the same properties, the value of the last object's properties stay.
 
 (https://www.youtube.com/watch?v=c05OL7XbwXU)
 
-- In the video, what is the first step that the developer does to pass functions between components?
-- In your own words, what does the increment function do?
-- How can you pass a method from a parent component into a child component?
-- How does the child component invoke a method that was passed to it from a parent component?
+- In the video, what is the first step that the developer does to pass functions between components? He declares a function in the parent component to keep the state that is going to be changed, in this case, a counter.
+- In your own words, what does the increment function do? The increment function goes through an array of people using .map, and if the property name in the new array matches the property name in the old array, the property count in the new array increases by 1 and that object person goes into the new array.
+- How can you pass a method from a parent component into a child component? Same as you would do with a prop. In this case, it creates a new tag for the <Person /> using this (the function is inside an object).
+- How does the child component invoke a method that was passed to it from a parent component? In this case, we can use this (to refer back to the parent object where the function is) props (because the property is passed from parent to child) and the name of the function with (). this.props.increment().
