@@ -8,9 +8,10 @@
 
 (https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
-Why would we use a ternary operator? To refactor our code into a more efficient and readable if statement. We can use ternary operators in places where if statements are not allowed. In React, you can use ternary operators in the return section, since if statements are not allowed there.
-Rewrite the following statement using a ternary statement:
+- Why would we use a ternary operator? To refactor our code into a more efficient and readable if statement. We can use ternary operators in places where if statements are not allowed. In React, you can use ternary operators in the return section, since if statements are not allowed there.
+- Rewrite the following statement using a ternary statement:
 
+```
 if(x===y){
 console.log(true);
 } else {
@@ -21,3 +22,4 @@ x = 1;
 y = 2;
 x===y ? true : false
 // console.log displays false
+```
