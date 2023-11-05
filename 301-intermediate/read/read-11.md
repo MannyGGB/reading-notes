@@ -4,13 +4,13 @@
 
 - Fill in the chart below with five differences between SQL and NoSQL databases:
 
-| **SQL**                                                                | **NoSQL**                                                         |
-| ---------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Relational databases: data is structured and organised.                | Distributed databases: data is added, similar to a list of items. |
-| Table based: how data is structured in table rows.                     | Document based: it is a collection of data.                       |
-| Predefined schema.                                                     | Dynamic schema.                                                   |
-| SQL language (Structured Query language)                               | UnQL: Each database uses its own syntax.                          |
-| Support: excellent support from vendors and independent consultations. |                                                                   | Support: community-based support in some cases and limited experts. |
+| **SQL**                                                                | **NoSQL**                                                           |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Relational databases: data is structured and organised.                | Distributed databases: data is added, similar to a list of items.   |
+| Table based: how data is structured in table rows.                     | Document based: it is a collection of data.                         |
+| Predefined schema.                                                     | Dynamic schema.                                                     |
+| SQL language (Structured Query language)                               | UnSQL: Each database uses its own syntax.                           |
+| Support: excellent support from vendors and independent consultations. | Support: community-based support in some cases and limited experts. |
 
 - What kind of data is a good fit for an SQL database? Any kind of structured data.
 - Give a real world example. Inventories, financial transactions, customer information.
