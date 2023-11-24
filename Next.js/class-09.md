@@ -7,4 +7,6 @@
 
 - Build time renders static data once and sends it to the server as HTML.
   - Static data does not need to be rendered every time we run the app, so it's rendered once and then retrieved as static HTML.
-- Request time renders dynamic data every time is needed.
+  - Satic routes are prerendered at build time (when Vervel builds the whole app).
+- Request time renders dynamic data every time is accessed by the user because it doesn't know ahead of time what the data will be.
+  - We use request time to render dynamic routes (server-side rendering).
